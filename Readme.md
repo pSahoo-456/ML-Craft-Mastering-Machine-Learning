@@ -13,8 +13,7 @@
 **ML-Craft** is a one-stop, beginner-to-advanced Machine Learning repository that teaches you all essential concepts—from data preprocessing to model deployment. It’s built to help:
 
 - 🧑‍🎓 Beginners understand core ML techniques  
-- 🧠 Intermediate learners master concepts through real-world projects  
-- 🚀 Developers & Data Scientists deploy ML models confidently
+
 
 ---
 
@@ -27,8 +26,8 @@ ML-Craft/
 ├── 00_Basics/                # Python, NumPy, Pandas, Math & Stats
 ├── 01_Preprocessing/         # Missing values, encoding, scaling
 ├── 02_Supervised_Learning/  # Regression, Classification algorithms
-├── 03_Unsupervised_Learning/# Clustering, Dimensionality Reduction
-├── 04_Model_Selection_Tuning/# Cross-validation, Grid/Random Search
+├── 03_Unsupervised_Learning/ # Clustering, Dimensionality Reduction
+├── 04_Model_Selection_Tuning/ # Cross-validation, Grid/Random Search
 ├── 05_Project_Templates/    # Clean project structures
 ├── 06_Real_World_Projects/  # End-to-end case studies
 ├── 07_Deployment/           # Flask, Streamlit, FastAPI, CI/CD
