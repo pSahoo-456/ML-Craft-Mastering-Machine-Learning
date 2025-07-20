@@ -36,7 +36,7 @@ ML-Craft/
 └── LICENSE
 ```
 
-```
+```mermaid
 graph TD
 A[Start: Basics] --> B[Preprocessing]
 B --> C[Supervised Learning]
