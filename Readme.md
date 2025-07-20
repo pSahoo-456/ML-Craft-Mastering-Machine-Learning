@@ -8,9 +8,9 @@
 
 ---
 
-## 📌 What is ML-Mastery?
+## 📌 What is ML-Craft?
 
-**ML-Mastery** is a one-stop, beginner-to-advanced Machine Learning repository that teaches you all essential concepts—from data preprocessing to model deployment. It’s built to help:
+**ML-Craft** is a one-stop, beginner-to-advanced Machine Learning repository that teaches you all essential concepts—from data preprocessing to model deployment. It’s built to help:
 
 - 🧑‍🎓 Beginners understand core ML techniques  
 - 🧠 Intermediate learners master concepts through real-world projects  
@@ -21,7 +21,7 @@
 ## 📁 Repository Structure
 
 ```bash
-ML-Mastery/
+ML-Craft/
 │
 ├── README.md                 # Project Overview
 ├── 00_Basics/                # Python, NumPy, Pandas, Math & Stats
@@ -36,6 +36,7 @@ ML-Mastery/
 └── LICENSE
 ```
 
+```
 graph TD
 A[Start: Basics] --> B[Preprocessing]
 B --> C[Supervised Learning]
@@ -43,3 +44,4 @@ C --> D[Unsupervised Learning]
 D --> E[Model Selection]
 E --> F[Real-World Projects]
 F --> G[Deployment]
+```
