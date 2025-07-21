@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://seaborn.pydata.org/_static/logo-wide-light.svg" alt="Seaborn Logo" width="400"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="400"/>
 </div>
 
 <h1 align="center">Mastering Seaborn for Statistical Visualization</h1>
@@ -228,4 +228,4 @@ plt.show()
 **Prakash Sahoo**  
 **Email:** prakash2004sahoo@gmail.com
 
-**Linkdine:**https://www.linkedin.com/in/prakash-sahoo-ai/
+**Linkdine:** https://www.linkedin.com/in/prakash-sahoo-ai/
