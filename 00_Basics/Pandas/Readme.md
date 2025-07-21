@@ -243,3 +243,12 @@ df['col'].apply(func)              # Apply function
 
 - [Video Tutorial (Best for Visual Learners)](https://www.youtube.com/watch?v=vmEHCJofslg)  
   FreeCodeCamp's "Pandas Course for Beginners" provides a thorough, beginner-friendly video walkthrough of Pandas basics and practical
+
+---
+Happy Learning!
+
+---
+
+**Author:** Prakash Sahoo  
+**Email:** prakash2004sahoo@gmail.com
+**Linkdine:** https://www.linkedin.com/in/prakash-sahoo-ai/
