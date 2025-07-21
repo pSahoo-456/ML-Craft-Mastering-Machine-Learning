@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas Logo" width="400"/>
+  <img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="Pandas Logo" width="400"/>
 </div>
 
 <h1 align="center">Mastering Pandas for AI/ML</h1>
