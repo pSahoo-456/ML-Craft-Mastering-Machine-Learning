@@ -1,9 +1,9 @@
 <h1 align="center">🚀 ML-Mastery: Master Machine Learning from Scratch to Deployment</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/ML-Mastery?style=social" />
-  <img src="https://img.shields.io/github/forks/yourusername/ML-Mastery?style=social" />
-  <img src="https://img.shields.io/github/license/yourusername/ML-Mastery" />
+  <img src="https://img.shields.io/github/stars/pSahoo-456/ML-Craft-Mastering-Machine-Learning?style=social" />
+  <img src="https://img.shields.io/github/forks/pSahoo-456/ML-Craft-Mastering-Machine-Learning?style=social" />
+  <img src="https://img.shields.io/github/license/pSahoo-456/ML-Craft-Mastering-Machine-Learning" />
 </p>
 
 ---
@@ -23,8 +23,8 @@
 ML-Craft/
 │
 ├── README.md                 # Project Overview
-├── 00_Basics/                # Python, NumPy, Pandas, Math & Stats
-├── 01_Preprocessing/         # Missing values, encoding, scaling
+├── 00_Basics/               # Python, NumPy, Pandas, Math & Stats
+├── 01_Preprocessing  /      # Missing values, encoding, scaling
 ├── 02_Supervised_Learning/  # Regression, Classification algorithms
 ├── 03_Unsupervised_Learning/ # Clustering, Dimensionality Reduction
 ├── 04_Model_Selection_Tuning/ # Cross-validation, Grid/Random Search
