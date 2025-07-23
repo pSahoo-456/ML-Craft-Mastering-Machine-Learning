@@ -19,7 +19,7 @@
 ---
 
 ## Table of Contents
-
+0. [History of NumPy](#history-of-numpy)
 1. [Why NumPy?](#why-numpy)
 2. [Installation](#installation)
 3. [The ndarray: Creation & Inspection](#the-ndarray-creation--inspection)
@@ -36,6 +36,13 @@
 9. [Practice Questions](#practice-questions)
 
 ---
+
+## 0. History of NumPy
+
+NumPy originated as Numeric in the mid-1990s, created by Jim Hugunin to bring efficient array computing to Python. In 2005, **Travis Oliphant** merged Numeric with another array package, Numarray, to create NumPy as we know it today. Since then, NumPy has become the foundational library for scientific computing in Python, powering libraries like SciPy, pandas, scikit-learn, and many more. Its efficient n-dimensional array object and broadcasting capabilities have made it the standard for numerical computation in the Python ecosystem.
+
+---
+
 
 ## 1. Why NumPy?
 
