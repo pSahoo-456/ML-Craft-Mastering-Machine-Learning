@@ -33,8 +33,9 @@ This repository culminates the data science journey by focusing on Scikit-learn,
 5. [Key Modules for Every Project](#key-modules-for-every-project)
 6. [Scikit-learn Cheat Sheet](#scikit-learn-cheat-sheet)
 7. [Practice Questions](#practice-questions)
-8. [Resources](#resources)
-9. [Author](#author)
+8. [Learning Path](#learning-path)
+9. [Resources](#resources)
+10. [Author](#author)
 
 ---
 
@@ -223,6 +224,25 @@ print(classification_report(y_test, predictions))
 8. Implement cross-validation for a Decision Tree classifier.
 9. Encode categorical features using OneHotEncoder.
 10. Save and load a trained model using joblib.
+
+---
+
+## 8. Learning Path
+
+This folder contains a structured learning path to master Scikit-learn:
+
+### Beginner Level
+- **01.ipynb**: Introduction to Scikit-learn basics
+- **02_Datasets_and_Basic_Exploration.ipynb**: Loading datasets and basic data exploration
+
+### Intermediate Level
+- **03_Model_Training_and_Evaluation.ipynb**: Training models and evaluating performance
+- **04_Preprocessing_and_Pipelines.ipynb**: Data preprocessing techniques and pipeline creation
+
+### Advanced Level
+- **05_Model_Selection_and_Hyperparameter_Tuning.ipynb**: Model comparison and hyperparameter optimization
+
+Each notebook builds upon the previous ones, providing a comprehensive understanding of Scikit-learn's capabilities.
 
 ---
 
