@@ -12,7 +12,7 @@
 
 **ML-Craft** is a one-stop, beginner-to-advanced Machine Learning repository that teaches you all essential concepts—from data preprocessing to model deployment. It’s built to help:
 
-- 🧑‍🎓 Beginners understand core ML techniques  
+-Beginners understand core ML techniques  
 
 
 ---
